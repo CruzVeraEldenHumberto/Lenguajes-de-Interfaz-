@@ -1,2 +1,2 @@
 # Lenguajes-de-Interfaz-
-Cierre de diagnostico
+Cierre de diagnóstico.
